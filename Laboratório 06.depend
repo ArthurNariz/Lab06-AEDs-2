@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1648163103 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\geracao.h
+	<stdbool.h>
+	<stdint.h>
+
+1648174934 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\main.c
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\bolha.h
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\countingsort.h
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\heapsort.h
+	<stdint.h>
+	<stdlib.h>
+	"geracao.h"
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\insercao.h
+	"geracao.h"
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\mergesort.h
+	"geracao.h"
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\quicksort.h
+	"geracao.h"
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\selecao.h
+	"geracao.h"
+
+1648172148 c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\shellsort.h
+	"geracao.h"
+
+1648163361 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\bolha.c
+	"geracao.h"
+	"bolha.h"
+	<stdio.h>
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\countingsort.c
+	"geracao.h"
+	"countingsort.h"
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\heapsort.c
+	"heapsort.h"
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\insercao.c
+	"insercao.h"
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\mergesort.c
+	"mergesort.h"
+	<stdlib.h>
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\quicksort.c
+	"quicksort.h"
+	<stdio.h>
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\selecao.c
+	"selecao.h"
+
+1648172148 source:c:\users\arthu\documents\faculdade\5º período\aed\laboratório 06\shellsort.c
+	"shellsort.h"
+
+1648163361 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\bolha.c
+	"geracao.h"
+	"bolha.h"
+	<stdio.h>
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\geracao.h
+	<stdbool.h>
+	<stdint.h>
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\bolha.h
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\countingsort.c
+	"geracao.h"
+	"countingsort.h"
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\countingsort.h
+
+1648163103 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\heapsort.c
+	"heapsort.h"
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\heapsort.h
+	<stdint.h>
+	<stdlib.h>
+	"geracao.h"
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\insercao.c
+	"insercao.h"
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\insercao.h
+	"geracao.h"
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\mergesort.c
+	"mergesort.h"
+	<stdlib.h>
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\mergesort.h
+	"geracao.h"
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\quicksort.c
+	"quicksort.h"
+	<stdio.h>
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\quicksort.h
+	"geracao.h"
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\selecao.c
+	"selecao.h"
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\selecao.h
+	"geracao.h"
+
+1648172148 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\shellsort.c
+	"shellsort.h"
+
+1648172148 c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\shellsort.h
+	"geracao.h"
+
+1648513871 source:c:\users\arthu\onedrive\faculdade\5º período\aed\laboratório 06\código- lab06\main.c
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
